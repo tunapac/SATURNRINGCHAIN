@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.o
+*.so
+.DS_Store
+.saturn_wallet/
+*.log
