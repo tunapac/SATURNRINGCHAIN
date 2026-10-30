@@ -1,0 +1,25 @@
+{
+  "compiler": "humalc V7-DUAL-SIGNATURE-OWN",
+  "protocol": "HUMA-629",
+  "chain_id": 629,
+  "contract": "RWATER",
+  "contract_file": "RWATER.humal",
+  "vm": "HVM",
+  "public": {
+    "bytecode": "HVM:aee70cda4cc3ab41f141ea5c27afa95312a7d980bc5fad75bd8444766c1d8fbf",
+    "use": "PUBLIC INTERACTION TO BLOCKCHAIN \u2014 ANYONE",
+    "format": "HVM:{SHA256} \u2014 OFFICIAL HUMA-629 PUBLIC BYTECODE"
+  },
+  "architect": {
+    "bytecode": "HUMA629:ARCHITECT:TUNAPAC:CHAIN629:RWATER:aee70cda4cc3ab41f141ea5c27afa95312a7d980bc5fad75bd8444766c1d8fbf:huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356",
+    "use": "ARCHITECT SIGNATORY \u2014 PERSONAL INTERACTION \u2014 STANDALONE SIGNATURE",
+    "architect": "TUNAPAC",
+    "since": "GSM 2001",
+    "wallet": "huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356",
+    "rights": "FOUNDER / ARCHITECT / ROOT ACCESS TO LEDGER",
+    "format": "HUMA629:ARCHITECT:TUNAPAC:CHAIN629:CONTRACT:SHA:WALLET \u2014 OWN SIGNATORY"
+  },
+  "consensus": "HUMA-PROOF-OF-MESH",
+  "entry": "mesh://tower/62910000000",
+  "compiled_at": "2026-08-25T03:42:54.810888"
+}

@@ -1,0 +1,75 @@
+{
+  "genesis": "HUMA1-SIGNED-BY-TRANSISTORS-2N3904-TOWER10-ARCHITECT-TUNAPAC",
+  "orbital": [
+    {
+      "ring": "RING_A",
+      "token": "$PHOTON",
+      "amount": 1.5,
+      "unit": "kWh",
+      "proof": "INA219_V=12.2_I=3.1_SUN_PHOTO_GPS_PH",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_a/pulse_1",
+      "timestamp": "2026-08-22T15:07:27.422303",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    },
+    {
+      "ring": "RING_D",
+      "token": "$H2O",
+      "amount": 1,
+      "unit": "1000L",
+      "proof": "TDS=32_FLOW=1000L_PHOTO_VILLAGE_X",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_d/pulse_1",
+      "timestamp": "2026-08-22T15:07:27.422416",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    },
+    {
+      "ring": "RING_B",
+      "token": "$ATOM_GOLD",
+      "amount": 5.2,
+      "unit": "g",
+      "proof": "XRF_99.95%_WEIGHT_5.2g_VAULT_NG",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_b/gold",
+      "timestamp": "2026-08-22T15:07:27.422488",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    },
+    {
+      "ring": "RING_B",
+      "token": "$ATOM_LITHIUM",
+      "amount": 50,
+      "unit": "g",
+      "proof": "XRF_LITHIUM_98%_BATTERY_GRADE",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_b/lithium",
+      "timestamp": "2026-08-22T15:07:27.422550",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    },
+    {
+      "ring": "RING_B",
+      "token": "$ATOM_PLATINUM",
+      "amount": 2,
+      "unit": "g",
+      "proof": "XRF_PLATINUM_99.9%",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_b/platinum",
+      "timestamp": "2026-08-22T15:07:27.422609",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    },
+    {
+      "ring": "RING_C",
+      "token": "$METEORITE",
+      "amount": 120,
+      "unit": "g",
+      "proof": "LAB_TEST_METEORITE_TRUE_SAHARA",
+      "huma_address": "HUMA://huma629rfuykcdsexx/tower10/ring_c/meteorite",
+      "timestamp": "2026-08-22T15:07:27.422671",
+      "keeper": "HUMA://huma629rfuykcdsexx/tower10/keeper_ph"
+    }
+  ],
+  "wallet": {
+    "$PHOTON": 1.5,
+    "$H2O": 1,
+    "$ATOM_GOLD": 5.2,
+    "$ATOM_LITHIUM": 50,
+    "$ATOM_PLATINUM": 2,
+    "$METEORITE": 120,
+    "$RING": 17.97
+  },
+  "protocol": "HUMA://huma629rfuykcdsexx/tower10"
+}

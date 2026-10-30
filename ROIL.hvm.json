@@ -1,0 +1,25 @@
+{
+  "compiler": "humalc V7-DUAL-SIGNATURE-OWN",
+  "protocol": "HUMA-629",
+  "chain_id": 629,
+  "contract": "ROIL",
+  "contract_file": "ROIL.humal",
+  "vm": "HVM",
+  "public": {
+    "bytecode": "HVM:ea89f5b9d87418512de89905642c76b47d853aa6d02eb597d32fe35e545ecd1d",
+    "use": "PUBLIC INTERACTION TO BLOCKCHAIN \u2014 ANYONE",
+    "format": "HVM:{SHA256} \u2014 OFFICIAL HUMA-629 PUBLIC BYTECODE"
+  },
+  "architect": {
+    "bytecode": "HUMA629:ARCHITECT:TUNAPAC:CHAIN629:ROIL:ea89f5b9d87418512de89905642c76b47d853aa6d02eb597d32fe35e545ecd1d:huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356",
+    "use": "ARCHITECT SIGNATORY \u2014 PERSONAL INTERACTION \u2014 STANDALONE SIGNATURE",
+    "architect": "TUNAPAC",
+    "since": "GSM 2001",
+    "wallet": "huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356",
+    "rights": "FOUNDER / ARCHITECT / ROOT ACCESS TO LEDGER",
+    "format": "HUMA629:ARCHITECT:TUNAPAC:CHAIN629:CONTRACT:SHA:WALLET \u2014 OWN SIGNATORY"
+  },
+  "consensus": "HUMA-PROOF-OF-MESH",
+  "entry": "mesh://tower/62910000000",
+  "compiled_at": "2026-08-25T03:42:54.955877"
+}

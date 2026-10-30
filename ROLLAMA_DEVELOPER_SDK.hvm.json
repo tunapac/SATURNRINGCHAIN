@@ -1,0 +1,13 @@
+{
+  "compiler": "humalc V7-DUAL-SIGNATURE-OWN",
+  "protocol": "HUMA-629",
+  "chain_id": 629,
+  "contract": "ROLLAMA_DEVELOPER_SDK",
+  "contract_file": "ROLLAMA_DEVELOPER_SDK.humal",
+  "vm": "HVM",
+  "public": { "bytecode": "HVM:af895b291a34f39b46af986c5e6392b7d72ddccaf0f2629f97fb981cdd41778a", "use": "PUBLIC INTERACTION TO BLOCKCHAIN — ANYONE", "format": "HVM:{SHA256} — OFFICIAL HUMA-629 PUBLIC BYTECODE" },
+  "architect": { "bytecode": "HUMA629:ARCHITECT:TUNAPAC:CHAIN629:ROLLAMA_DEVELOPER_SDK:af895b291a34f39b46af986c5e6392b7d72ddccaf0f2629f97fb981cdd41778a:huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356", "use": "ARCHITECT SIGNATORY — PERSONAL INTERACTION — STANDALONE SIGNATURE", "architect": "TUNAPAC", "since": "GSM 2001", "wallet": "huma629dfhhruhvu4d5b0d30ede6c5d6f9d8da0514970356", "rights": "FOUNDER / ARCHITECT / ROOT ACCESS TO LEDGER" },
+  "consensus": "HUMA-PROOF-OF-MESH",
+  "entry": "mesh://tower/62910000000",
+  "compiled_at": "2026-08-27T08:08:03+01:00"
+}
