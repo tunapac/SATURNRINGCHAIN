@@ -1,0 +1,9 @@
+QPU-629-A 64-Qubit Transmon
+- 64 qubits, 33ms coherence
+- Interface: QOTG Pin 34-40 Q0-Q6 data + entanglement bus
+- Bell: Pin 41-45 EPR source pump signal idler herald sync
+- QKD: Pin 46-50 TX RX basis key PUF entropy
+- Memory: Pin 56-60 ADDR DATA STORE RETRIEVE COHERENCE
+- Clock: Pin 61-66 10GHz sync 33 cores
+- Test: qverifier --mode bell -> S>2.7 violation, fidelity >0.99
+- Connects to HSP33 via QOTG 66-pin

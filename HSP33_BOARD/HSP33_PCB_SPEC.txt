@@ -1,0 +1,11 @@
+HSP33 DEV BOARD v33 - 33-core RISC-V > ESP32
+- MCU: HSP33 33-core 1GHz 33MB SRAM + 33MB PSRAM
+- QPU: QPU-629-A 64-Qubit interface Pin 34-40
+- Vault: HRB928 SPI Pin 16-20 PUF 368F9466
+- Wallet: Chain 629 I2C Pin 21-25 DID did:huma:629:ip:368f9466
+- GNS: 2.4/5/60GHz mesh Pin 5-15
+- OTG: QOTG 66-pin USB-C -> HSP33
+- JTAG: RISC-V Pin 26-30
+- Power: 5V 3A VBUS Pin1
+- PCB: 10x10cm 4-layer JLCPCB $33
+- Flash: hsp33tool + qotgtool + qverifier Bell>2.0
