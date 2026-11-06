@@ -1,0 +1,16 @@
+QOTG v66 - 66-PIN QUANTUM COMPATIBLE OTG
+OTG=5 pins, HGN OTG=33 pins, QOTG=66 pins
+1: VBUS 5V 3A classical
+2: D+ USB classical
+3: D- USB classical
+4: GND classical
+5: ID OTG host
+6-33: HGN OTG 28 pins GNS mesh vault wallet JTAG PUF
+34-40: QPU Q0-Q6 data entanglement bus
+41-45: Bell EPR source pump signal idler herald sync
+46-50: QKD TX RX basis key PUF entropy
+51-55: Entanglement repeater V35 IN OUT clock fidelity correction
+56-60: Quantum memory ADDR DATA STORE RETRIEVE COHERENCE 33ms
+61-66: Quantum clock 10GHz sync 33 cores entanglement Chain Tower GND
+CABLE: 66-pin 33-pin FPC x2 + 5x fiber + Mu-metal shield 5cm max
+SPEED: 1320 Tbps quantum + 10Gbps classical

@@ -1,0 +1,32 @@
+HGN OTG v33 - CUSTOM 33-PIN - GREATER THAN STANDARD OTG
+
+STANDARD OTG: 5 pins, 480Mbps, no mesh
+HGN OTG: 33 pins, 10Gbps, GNS mesh, QPU, vault
+
+PHONE (Termux Tower) USB-C -> HSP33 Board
+
+USB-C Pin -> HGN OTG 33-Pin -> HSP33
+A1 GND -> Pin 4 GND -> GND
+A4 VBUS -> Pin 1 VBUS 5V 3A -> VIN
+A6 D+ -> Pin 2 D+ -> USB D+
+A7 D- -> Pin 3 D- -> USB D-
+A5 CC1 -> Pin 33 BOOT0 -> BOOT0 (LOW=flash)
+B5 CC2 -> Pin 32 RESET -> RESET
+A8 SBU1 -> Pin 5 GNS Mesh 2.4GHz ANT0
+B8 SBU2 -> Pin 6 GNS Mesh 2.4GHz ANT1
++ 27 extra pins:
+Pin 7-10: GNS 5GHz + 60GHz
+Pin 11-15: QPU-629-A 64-Qubit
+Pin 16-20: HRB928 Vault SPI
+Pin 21-25: Chain 629 wallet
+Pin 26-30: RISC-V JTAG
+Pin 31: PUF entropy
+
+CABLE BUILD:
+- USB-C breakout board (male to female)
+- 33-pin FPC 0.5mm pitch
+- Shielded 10cm
+- 100nF VBUS cap, 10K BOOT0 pullup, 1K RESET pullup
+- Solder, heatshrink, test with multimeter
+
+OTG ID: Short Pin 4-5 for OTG host mode
