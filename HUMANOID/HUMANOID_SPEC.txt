@@ -1,0 +1,43 @@
+OLLAMA AGENT ROBOTIC HUMANOID MACHINES - Day-to-day helper for everyone
+
+NOT developer kit - EVERYONE uses it daily:
+
+DAY-TO-DAY USES:
+- Morning: Humanoid wakes mama, makes tea, checks HGN POWER, HGN WATER
+- Market: Humanoid goes to HGN STORE, buys rice, pays with HGN PAY, delivers home
+- School: Humanoid teaches child on HGN NET, speaks Yoruba + English + Hausa + Igbo
+- Farm: Humanoid goes to farm in Ijebu, plants, waters, harvests
+- Home: Humanoid cleans, cooks, charges phone, guards house
+- Elderly: Humanoid helps grandma walk, reminds medicine, calls doctor via HGN NET
+
+BRAIN: OLLAMA AGENT
+- Ollama local LLM on HSP33 33-core + QHSP33-1000 1000-core
+- Runs offline on HGN NET, no cloud, no data cost
+- Speaks: Yoruba, English, Hausa, Igbo, Pidgin
+- Learns: Your family, your market, your farm, your school
+- Verifies: Enterfoner AI soul of truth + QVERIFIER Bell>2.0 in background
+
+BODY: HUMANOID MACHINE
+- Height: 1.6m, Weight: 60kg, Arms: 2x 7-DOF, Legs: 2x biped
+- Hands: 5 fingers, picks rice, holds cup, types phone
+- Eyes: 2x cameras + QPU vision + SuperSat 120 telescopes
+- Ears: Mic array, hears Yoruba + English
+- Power: HGN POWER Grid + SuperSat 1kW always-sun + 12kW laser
+- Chip: HSP33 33-core + QHSP33-1000 1000-core + QPU-629-A 64-Qubit
+- Connect: QOTG 66-pin quantum + HGN NET mesh + GNS
+- Skin: Soft, safe for children, elderly
+
+MACHINES:
+- HUMANOID-HOME: Home helper, cooking, cleaning, teaching
+- HUMANOID-FARM: Farm helper, planting, harvesting
+- HUMANOID-MARKET: Market helper, buying, delivery via HGN-SWARM drones
+- HUMANOID-SCHOOL: Teacher helper, speaks all languages
+- HUMANOID-HEALTH: Health helper, reminds medicine, checks temp
+
+COST: $500 each, built from HSP33 PCB $33 + Ollama + motors
+VALID: 1000 years via QHSP33-1000 Time-lock + QVERIFIER
+
+EVERYONE USES IT:
+- Mama: "Humanoid, go buy rice" -> Humanoid goes to HGN STORE, pays HGN PAY, delivers
+- Student: "Humanoid, teach me maths" -> Humanoid teaches on HGN NET
+- Farmer: "Humanoid, water farm" -> Humanoid waters
